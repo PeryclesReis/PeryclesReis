@@ -1,2 +1,2 @@
-<img src="https://github.com/PeryclesReis/PeryclesReis.git/blob/master/trybeFig.png">
+<img src="https://github.com/PeryclesReis/PeryclesReis/blob/master/trybeFig?raw=true">
 
