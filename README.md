@@ -4,5 +4,11 @@
 
 
 
-##### Bom vou me apresentar um pouco! Me chamo Perycles dos Reis Floriano, nasci em 1991 em Brasília e também moro em Brasília. Gosto de praticar musculação, curto muito jogar basquete, futebol, jogar games de preferência RPGs e também gosto de ir ao "cineminha". Tenho dois hobbies que me deixa muito relaxado, um deles é o Aquarismo: adora olhar peixes, pesquisar sobre peixes ornamentais e plantas aquáticas, e o segundo hobby é motociclismo: adoro me aventurar de moto pelas "estradas a fora".
+<p>
+
+### Olá, meu nome é Perycles mais conhecido como "Perin" e sou de Brasília.
+### Sempre gostei muito de tecnologia e "futucar computadores", então por causa dessa paixão resolvi me aventurar pelo mundo da T.I .
+### Então foi com esse pensamento que tomei a uma decisão e me formei em Ciência da Computação. E nesse momento, sou estudante de Desenvolvimento web Full Stack na @trybe para melhorar como profissional e aumentar minhas skills.
+
+</p>
 
