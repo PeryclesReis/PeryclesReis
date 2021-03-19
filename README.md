@@ -2,8 +2,6 @@
 <img src="https://github.com/PeryclesReis/PeryclesReis/blob/master/trybeFig.png" width="500px">
 </p>
 
-
-
 <p>
 
 ##### Olá seja muito bem vindo(a) ao github, vou falar um pouco sobre eu:
@@ -25,7 +23,11 @@
 #### Se você leu o meu Readme até o final, fico muito grato pelo sua atenção e obrigado por me conhecer um pouquinho rsrs. 🤓 🚀
 </p>
 
-<a href="https://www.linkedin.com/in/perycles-floriano/" > Clique aqui para ir ao meu Linkedin </a>
+![](https://visitor-badge.laobi.icu/badge?page_id=Peryclesreis.Peryclesreis)
+[![Github](https://img.shields.io/github/followers/Peryclesreis?label=Follow&style=social)](https://github.com/Peryclesreis)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/perycles-floriano/)](https://www.linkedin.com/in/perycles-floriano/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Peryclesreis&theme=dracula&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peryclesreis&layout=compact)
+<br/>
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=LucioOSilva&hide=php&theme=dracula)
