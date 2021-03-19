@@ -27,3 +27,5 @@
 
 <a href="https://www.linkedin.com/in/perycles-floriano/" > Clique aqui para ir ao meu Linkedin </a>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Peryclesreis&theme=dracula&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peryclesreis&layout=compact)
