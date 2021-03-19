@@ -25,9 +25,10 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Peryclesreis.Peryclesreis)
 [![Github](https://img.shields.io/github/followers/Peryclesreis?label=Follow&style=social)](https://github.com/Peryclesreis)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/perycles-floriano/)](https://www.linkedin.com/in/perycles-floriano/)
 
+## 👨‍💻 Linguagens usadas no meu GitHub:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Peryclesreis&theme=dracula&show_icons=true)
 <br/>
+## 🏆 Estatus do meu Github:
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=LucioOSilva&hide=php&theme=dracula)
