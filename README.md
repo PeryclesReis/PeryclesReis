@@ -5,7 +5,7 @@
 
 
 <p>
-### Olá seja muito bem vindo(a) ao github, vou falar um pouco sobre eu
+#### Olá seja muito bem vindo(a) ao github, vou falar um pouco sobre eu.
 ##### Olá, meu nome é Perycles mais conhecido como "Périn", tenho 29 anos e sou de Brasília.
 ##### Sempre gostei muito de tecnologia e "futucar computadores", por causa dessa paixão resolvi me aventurar pelo mundo da T.I.
 ##### Então com esse pensamento, tomei a decisão de enfrentar o curso de Ciência da Computação e com muito esforço, suor, dedicação e estudo hoje sou Cientista da Computação. No momento, sou estudante de Desenvolvimento web Full Stack na @trybe, para aperfeiçoar minhas Hardskills e também Softskills.
