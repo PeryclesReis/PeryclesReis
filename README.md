@@ -12,3 +12,5 @@
 
 </p>
 
+<a href="https://www.linkedin.com/in/perycles-floriano/" > Clique aqui para ir ao meu Linkedin </a>
+
