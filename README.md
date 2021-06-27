@@ -22,6 +22,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Peryclesreis&theme=dark&show_icons=true)
 <br/>
 ## 🏆 Estatus do meu Github:
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Peryclesreis&layout=compact&hide=c#,php&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluelovers&show_icons=true&theme=dark&layout=compact)
 <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Peryclesreis&show_owner=true&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
