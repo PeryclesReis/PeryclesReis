@@ -9,7 +9,8 @@
 ##### Sempre gostei muito de tecnologia e "futucar computadores", por causa dessa paixão resolvi me aventurar pelo mundo da T.I.
 ##### Então com esse pensamento, tomei a decisão de enfrentar o curso de Ciência da Computação e com muito esforço, suor, dedicação e estudo hoje sou Cientista da Computação. No momento, sou estudante de Desenvolvimento web FullStack na @trybe, caminhando rumo ao sucesso.
 
-##### Estou a procura de crescer tanto em conhecimento e profissionalmente, sei que um item consequentemente interfere no outro. Por isso estou estudo e me empenhado ao máximo para alcançar meus objetivos! 🔖
+##### Estou a procura de crescer tanto em conhecimento e profissionalmente, sei que um item consequentemente interfere no outro, por isso estudo e me empenho ao máximo para alcançar meus objetivos! 🔖
+  
 #### Se você leu o meu Readme até o final, fico muito grato pelo sua atenção e obrigado por me conhecer um pouquinho rsrs. 🤓 🚀
 </p>
 
