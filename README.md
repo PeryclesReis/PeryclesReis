@@ -24,4 +24,4 @@
 ## 🏆 Estatus do meu Github:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peryclesreis&show_icons=true&theme=dark&layout=compact)
 <br/>
-{/*[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Peryclesreis&show_owner=true&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)*/}
+<!-- {*[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Peryclesreis&show_owner=true&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)*} -->
