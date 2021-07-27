@@ -10,32 +10,40 @@
   
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-  #### Olá seja muito bem vindo(a) a meu perfil: 📚
+  #### Olá seja muito bem vindo(a) a meu perfil 📚
   #### Meu nome é Perycles mais conhecido como "Périn", tenho 29 anos e sou de Brasília.
-  #### Sempre gostei muito de tecnologia e "futucar computadores", por causa dessa paixão resolvi me aventurar pelo mundo da T.I.
-  #### Então tomei a decisão de enfrentar o curso de Ciência da Computação e com muito esforço, suor, dedicação e estudo, hoje sou um Cientista da Computação. E no presente momento, estou caminhando como estudante de Desenvolvimento web FullStack na @trybe, rumo ao sucesso. 🚀
+  #### Sempre gostei muito de tecnologia e de "futucar computadores", por causa dessa paixão resolvi me aventurar pelo mundo da T.I.
+  #### Então tomei a decisão de enfrentar o curso de Ciência da Computação e com muito esforço, suor, dedicação e estudo, hoje sou um Cientista da Computação. E no presente momento, estou caminhando como estudante de Desenvolvimento web FullStack na @trybe, rumo ao topo. 🚀
 
-  #### Estou a procura de crescer tanto em conhecimento e profissionalmente, sei que um item consequentemente interfere no outro, por isso estudo e me empenho ao máximo para alcançar meus objetivos! 🔖
+  #### Estou a procura de crescer em conhecimento e profissionalmente, sei que um item consequentemente interfere no outro, por isso estudo e me empenho ao máximo para alcançar meus objetivos! 🔖
 </div>
   
 <div align='center'>
   
   ## Minhas conexões <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
   
+  <a href = 'https://www.linkedin.com/in/perycles-floriano'> <img width = '15%' align= 'center' src="https://bi-jingo.com/wp-content/uploads/1997/03/Linkedin-Logo.png"/></a> 
+  <a href = 'https://www.instagram.com/peryclesreis/'> <img width = '15%' align= 'center' src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href = 'mailto:peycles@gmail.com'> <img width = '11%' align= 'center' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+
   ![](https://visitor-badge.laobi.icu/badge?page_id=Peryclesreis.Peryclesreis)
   [![Github](https://img.shields.io/github/followers/Peryclesreis?label=Follow&style=social)](https://github.com/Peryclesreis)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/perycles-floriano/)](https://www.linkedin.com/in/perycles-floriano/)
 </div>
   
 <div align='center'>
   <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-  <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
   <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-  <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
   <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-  <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-  <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+  <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+  <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
   <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
+  <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=jest&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a>
+  <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+  <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+  <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+  <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
+<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
+<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 </div>
 
 <div align='center'>
@@ -54,7 +62,7 @@
 
 <div align='center'>
   
-  ### *** Se você leu o meu Readme até o final, fico muito grato pelo sua atenção e obrigado por me conhecer um pouquinho rsrs. 🤓 🚀 ***
+  ### Se você leu até aqui, fico 'gratíssimo' por tirar um pouco do seu tempo e atenção para estar aqui, meu muito obrigado e até a próxima! 🤓 🚀
   
 </div>
 
