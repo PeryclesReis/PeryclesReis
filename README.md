@@ -22,12 +22,10 @@
   
   ## Minhas conexões <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
   
-  <a href = 'https://www.linkedin.com/in/perycles-floriano'> <img width = '15%' align= 'center' src="https://bi-jingo.com/wp-content/uploads/1997/03/Linkedin-Logo.png"/></a> 
-  <a href = 'https://www.instagram.com/peryclesreis/'> <img width = '15%' align= 'center' src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href = 'mailto:peycles@gmail.com'> <img width = '11%' align= 'center' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-
-  ![](https://visitor-badge.laobi.icu/badge?page_id=Peryclesreis.Peryclesreis)
-  [![Github](https://img.shields.io/github/followers/Peryclesreis?label=Follow&style=social)](https://github.com/Peryclesreis)
+  <a href = 'https://www.facebook.com/perycles.ali.7'> <img width = '14%' align= 'center' src="https://img.shields.io/badge/facebook-%23333?style=for-the-badge&logo=facebook&logoColor=blue"/></a> 
+  <a href = 'https://www.linkedin.com/in/perycles-floriano'> <img width = '14%' align= 'center' src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/></a> 
+  <a href = 'https://www.instagram.com/peryclesreis/'> <img width = '15%' align= 'center' src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red"/></a>
+  <a href = 'mailto:peycles@gmail.com'> <img width = '11%' align= 'center' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 </div>
   
 <div align='center'>
