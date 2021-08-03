@@ -8,12 +8,12 @@
   
   ❤️ Programar | 🖤 Musica_gospel | 💙 Basquetinho
   
-  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+  <img width="35%" align="right" alt="Github" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" />
 
   #### Olá seja muito bem vindo(a) a meu perfil 📚
   #### Meu nome é Perycles mais conhecido como "Périn", tenho 29 anos e sou de Brasília.
   #### Sempre gostei muito de tecnologia e de "futucar computadores", por causa dessa paixão resolvi me aventurar pelo mundo da T.I.
-  #### Então tomei a decisão de enfrentar o curso de Ciência da Computação e com muito esforço, suor, dedicação e estudo, hoje sou um Cientista da Computação. E no presente momento, estou caminhando como estudante de Desenvolvimento web FullStack na @trybe, rumo ao topo. 🚀
+  #### Então tomei a decisão de enfrentar o curso de Ciência da Computação e com muito esforço, suor, dedicação e estudo, hoje sou um 'Cientista da Computação'. E no presente momento, estou caminhando como estudante de Desenvolvimento web FullStack na @trybe, rumo ao topo. 🚀
 
   #### Estou a procura de crescer em conhecimento e profissionalmente, sei que um item consequentemente interfere no outro, por isso estudo e me empenho ao máximo para alcançar meus objetivos! 🔖
 </div>
