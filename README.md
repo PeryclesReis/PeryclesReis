@@ -14,16 +14,8 @@
   #### Estou a procura de crescer em aprendizado e profissionalmente, sei que um item consequentemente interfere no outro, por isso estudo e me empenho ao máximo para alcançar meus objetivos! 🔖
 </div>
   
-<div align='center'>
-  
-  ## Minhas conexões <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-  
-  <a href = 'https://www.facebook.com/perycles.ali.7'> <img width = '14%' align= 'center' src="https://img.shields.io/badge/facebook-%23333?style=for-the-badge&logo=facebook&logoColor=blue"/></a> 
-  <a href = 'https://www.linkedin.com/in/perycles-floriano'> <img width = '14%' align= 'center' src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/></a> 
-  <a href = 'https://www.instagram.com/peryclesreis/'> <img width = '15%' align= 'center' src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red"/></a>
-  <a href = 'mailto:peycles@gmail.com'> <img width = '11%' align= 'center' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-</div>
-  
+</br>
+
 <div align='center'>
   <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
@@ -53,6 +45,8 @@
 <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white">
 </div>
 
+</br>
+
 <div align='center'>
 <h2> Status do meu GitHub <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
@@ -65,11 +59,20 @@
 </div>
 
 </br>
-<hr>
 
 <div align='center'>
   
-  ### Se você leu até aqui, fico 'gratíssimo' por tirar um pouco do seu tempo e atenção para estar aqui, meu muito obrigado e até a próxima! 🤓 🚀
+  ## Minhas conexões <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+  
+  <a href = 'https://www.facebook.com/perycles.ali.7'> <img width = '14%' align= 'center' src="https://img.shields.io/badge/facebook-%23333?style=for-the-badge&logo=facebook&logoColor=blue"/></a> 
+  <a href = 'https://www.linkedin.com/in/perycles-floriano'> <img width = '14%' align= 'center' src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/></a> 
+  <a href = 'https://www.instagram.com/peryclesreis/'> <img width = '15%' align= 'center' src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red"/></a>
+  <a href = 'mailto:peycles@gmail.com'> <img width = '11%' align= 'center' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+</div>
+
+<div align='center'>
+  
+  #### Fico 'gratíssimo' por tirar um pouco do seu tempo para estar aqui, meu muito obrigado! 🤓 🚀
   
 </div>
 
