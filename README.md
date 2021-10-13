@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/8b/aa/5b/8baa5bb80ce306685aa46505ed299153.png" width="90%" height ="350px">
-</div>
-
 <div align='center'>
   
   # 🤓 Hello my Friends < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
