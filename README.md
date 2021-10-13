@@ -1,6 +1,6 @@
 <div align='center'>
   
-  # 🤓 Hello my Friends < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+  # 🤓 Hello my Friends <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
   
   ❤️ Programar | 🖤 Musica_gospel | 💙 Basquetinho
   
