@@ -1,24 +1,25 @@
-<div align='center'>
+<div>
   
-  # Hello my Friends <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+  # Hello my Friends <img width="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
   
   ❤️ Programar | 🖤 Musica_gospel | 💙 Basquetinho
   
   <img width="35%" align="right" alt="Github" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" />
-
-  #### Olá seja muito bem vindo(a) a meu perfil 📚
-  #### Meu nome é Perycles mais conhecido como "Périn" e sou de Brasília.
-  #### Sempre simpatizei muito com tecnologia e de "futucar computadores", por causa dessa paixão resolvi me aventurar pelo mundo da T.I.
-  #### Então tomei a decisão de enfrentar o curso de Ciência da Computação e com muito esforço, suor, dedicação e estudo, hoje sou um 'Cientista da Computação'. E no presente momento, estou caminhando como estudante de Desenvolvimento web FullStack na @trybe, rumo ao topo. 🚀
-
-  #### Estou a procura de crescer em aprendizado e profissionalmente, sei que um item consequentemente interfere no outro, por isso estudo e me empenho ao máximo para alcançar meus objetivos! 🔖
+  
+  <span width="50%" align="left" margin-top="20px">
+    Olá seja muito bem vindo(a)!
+    Meu nome é Perycles mais conhecido como "Périn" e sou de Brasília.
+    Sobre eu:
+    Sempre simpatizei muito com tecnologia e de "futucar computadores", por causa dessa paixão resolvi me aventurar pelo mundo da T.I então tomei a decisão           de enfrentar o curso de Ciência da Computação e com muito esforço, suor, dedicação e estudo, hoje sou um 'Cientista da Computação'. 🚀
+    Estou a procura de uma oportunidade para crescimento intelectual e profissional, sei que um item consequentemente interfere no outro, por isso estudo e           me empenho ao máximo para alcançar esses objetivos! 🔖
+  </span>
 </div>
   
 </br>
 
 <div align='center'>
   <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
+<!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">  
@@ -42,7 +43,30 @@
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
-<img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white">
+<img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white"> -->
+
+<img alt="Node JS" width="108px" src="https://img.shields.io/badge/Node%20Js-black?style=flat&logo=node.js&logoColor=#339933" />
+<img alt="Java Script" width="130px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E" />
+<img alt="Express" width="109px" src="https://img.shields.io/badge/Express-black?style=flat&logo=Express&logoColor=#4EAA2" />
+<img alt="MongoDB" width="124px" src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=MongoDB&logoColor=#4EAA2" />
+<img alt="MySQL" width="103px" src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=#4EAA2" />
+<img alt="Git" width="66px" src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=#F05032" />
+<!-- <img alt="Sequelize" width="124px" src="https://img.shields.io/badge/Sequelize-black?style=flat&logo=sequelize&logoColor=#F05032" /> -->
+<img alt="HTML 5" width="105px" src="https://img.shields.io/badge/HTML%205-black?style=flat&logo=html5&logoColor=#E34F26" />
+<img alt="CSS 3" width="93px" src="https://img.shields.io/badge/CSS%203-black?style=flat&logo=css3&logoColor=blue" />
+<img alt="React" width="90px" src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=#61DAFB" />
+<img alt="Redux" width="95px" src="https://img.shields.io/badge/Redux-black?style=flat&logo=redux&logoColor=violet" />
+<img alt="React-router" width="150px" src="https://img.shields.io/badge/React_Router-black?style=flat&logo=react-router">  
+<img alt="Heroku" width="102px" src="https://img.shields.io/badge/Heroku-black?style=flat&logo=heroku&logoColor=purple" />
+<img alt="npm" width="80px" src="https://img.shields.io/badge/npm-black?style=flat&logo=npm&logoColor=white">
+<img alt="Jest" width="120px" src="https://img.shields.io/badge/Jest%20Code-black?style=flat&logo=jest&logoColor=red" />
+<img alt="Postman" width="110px" src="https://img.shields.io/badge/Postman-black?style=flat&logo=Postman">
+<img alt="Insomnia" width="120px" src="https://img.shields.io/badge/Insomnia-black?style=flat&logo=Insomnia&logoColor=violet">
+<img alt="Trello" width="92px" src="https://img.shields.io/badge/Trello-black?style=flat&logo=trello&logoColor=blue" />
+<img alt="Figma" width="96px" src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=#F24E1E" />
+<img alt="Linux" width="90px" src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=#FCC624" />
+<img alt="JWT" width="82px" src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens">
+<img alt="Json" width="82px" src="https://img.shields.io/badge/json-black?style=flat&logo=json">
 </div>
 
 </br>
