@@ -43,7 +43,8 @@
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
-<img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white"> -->
+<img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white">
+ <img src="https://img.shields.io/badge/NESTJS-black?style=for-the-badge&logo=nestjs&logoColor=red"> -->
 
 <img alt="Node JS" width="108px" src="https://img.shields.io/badge/Node%20Js-black?style=flat&logo=node.js&logoColor=#339933" />
 <img alt="Java Script" width="130px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E" />
@@ -67,6 +68,7 @@
 <img alt="Linux" width="90px" src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=#FCC624" />
 <img alt="JWT" width="82px" src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens">
 <img alt="Json" width="82px" src="https://img.shields.io/badge/json-black?style=flat&logo=json">
+<img alt="Json" width="120px" src="https://img.shields.io/badge/NESTJS-black?style=style=flat&logo=nestjs&logoColor=red">
 </div>
 
 </br>
