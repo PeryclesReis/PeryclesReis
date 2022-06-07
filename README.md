@@ -69,7 +69,3 @@
   <a href = 'mailto:peycles@gmail.com'> <img width = '11%' align= 'center' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 </div>
 
-<div align='center'>
-
-  #### Fico 'gratíssimo' por tirar um pouco do seu tempo para estar aqui, meu muito obrigado! 🤓 🚀
-</div>
