@@ -1,6 +1,6 @@
 <div>
   
-  # Hello my Friends <img width="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
+  # Hello my Friends <img heigth="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
   
   ❤️ Programar | 🖤 Musica_gospel | 💙 Basquetinho
   
