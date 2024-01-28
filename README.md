@@ -3,16 +3,36 @@
 
   ❤️ Programar | 🖤 Musica_gospel | 💙 Basquetinho
   <div>
-    <img width="25%" align="right" alt="Github" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" />
-    <p align="left">
+    <img width="25%" align="left" alt="Github" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" />
+  </div>
+  <div align="left">
+    <p>
       Olá seja muito bem vindo(a)!
       Meu nome é Perycles mais conhecido como "Périn" e sou de Brasília.
+    </br>
       Sobre mim:
-      Sempre simpatizei muito com tecnologia e de "futucar computadores", por causa dessa paixão resolvi me aventurar pelo mundo da T.I então tomei a decisão de enfrentar o curso de Ciência da Computação e com muito esforço, suor, dedicação e       
+      Sempre simpatizei muito com tecnologia e de "futucar computadores", por causa dessa paixão resolvi me aventurar pelo mundo da T.I então tomei a decisão de enfrentar o curso de         Ciência da Computação e com muito esforço, suor, dedicação e       
       estudo, hoje sou um 'Cientista da Computação'. 🚀
-      Estou a procura de uma oportunidade para crescimento intelectual e profissional, sei que um item consequentemente interfere no outro, por isso estudo e me empenho ao máximo para alcançar esses objetivos! 🔖
+      Estou a procura de uma oportunidade para crescimento intelectual e profissional, sei que um item consequentemente interfere no outro, por isso estudo e me empenho ao máximo para       alcançar esses objetivos! 🔖
     </p>
   </div>
+  </div>
+</div>
+
+</br>
+</br>
+
+<div>
+  <h3 align="left">🌐 Portfólio:</h3>
+  
+  <p>
+    Acesse meu portfólio pessoal aqui:
+    <a href="https://perin-portifolio.vercel.app/">
+      <strong>
+        perin-portifolio.vercel.app/
+      </strong>
+    </a>
+  </p>
 </div>
 
 </br>
